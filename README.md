@@ -1,2 +1,4 @@
 # VirusApp2020
- Virus App for Computer Programming 3 Exam
+ Virus App that uses graphs to track virus spread. 
+ 
+ Written in Java for the Computer Programming 3 exam at Flinders University. 
